@@ -27,3 +27,5 @@ Homomorphics using the Paillier cryptosystem in JavaScript.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[Ա](https://khachoyan.com) Happy homomorphisation!
