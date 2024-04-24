@@ -20,6 +20,13 @@ Homomorphics using the Paillier cryptosystem in JavaScript.
 
 3. The webpage will display the encrypted values of two plaintexts (`a` and `b`), the encrypted sum, and the decrypted sum.
 
+4. Alternativly run
+   ``` bash
+       cd python
+       pip install pycryptodome
+       python python/Homomorphic-add-python.py
+   ```
+
 ## Dependencies
 
 - [big-integer](https://github.com/peterolson/BigInteger.js): A library for handling big integer arithmetic.
